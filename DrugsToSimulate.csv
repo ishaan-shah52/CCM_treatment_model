@@ -1,0 +1,4 @@
+Drug,IsAgonist,AgonistTargetGeneID,AgonistTarget,AgonistTargetIndex,IsAntagonist,AntagonistTargetGeneID,AntagonistTarget,AntagonistTargetIndex,DrugApproved,DrugAction
+Alpelisib,No,,,,Yes,PIK3CA,PIK3CA,1,Yes,Competitive
+Caffeine,No,,,,Yes,PIK3CA,PIK3CA,1,Yes,Competitive
+Copanlisib,No,,,,Yes,PIK3CA,PIK3CA,1,Yes,Competitive
